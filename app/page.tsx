@@ -21,7 +21,7 @@ export default async function Home({
       </div>
       <div>
         <p>
-          This demo showcases how to use the{" "}
+          Semantic Search{" "}
           <Link
             href="https://sdk.vercel.ai/docs"
             className="text-blue-600 hover:underline"
